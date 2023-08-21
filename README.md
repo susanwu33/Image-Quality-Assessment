@@ -35,3 +35,6 @@ To do:
 
 3. Visualisation
   - Implement the output of generated mask
+
+## Free thoughts
+- Possible implementation to measure uncertainty (e.g. Monte Carlo dropout / majority voting ...?)
